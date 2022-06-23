@@ -71,12 +71,7 @@ The printf project is given as a group task which is done in pair. The objective
 The project is done by using c programming language.
 Authorized functions and macros are 
 *  [write](https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.html) (man 2 write) 
-* [malloc](https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.html) (man 3 malloc)
-* [free](https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.html) (man 3 free)
-* [va_start](https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.html) (man 3 va_start)
-* [va_end](https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.html) (man 3 va_end)
-* [va_copy](https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.html) (man 3 va_copy)
-* [va_arg](https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.html) (man 3 va_arg)
+* 
 
 
 ## About Printf 
@@ -100,7 +95,7 @@ This project is done by
 
 * Sewasew - [https://github.com/sewasew2127](https://github.com/sewasew2127) 
 
-Project Link: [https://github.com/sewasew2127/printf](https://github.com/sewasew2127/printf)
+Project Link: [https://github.com/sadabeshir/simple_shell](https://github.com/sadabeshir/simple_shell)
 
 
 
